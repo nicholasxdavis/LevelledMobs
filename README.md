@@ -5,6 +5,7 @@
 # LevelledMobs 4 With Stacked Mobs
 
 *An ArcanePlugins Resource • by PenalBuffalo, UltimaOath, and lokka30*
+*Stacked Mobs by nicholas x*
 
 <a href="https://discord.gg/arcaneplugins-752310043214479462">
 <img src="https://img.shields.io/badge/Chat%20%2F%20Support-on%20Discord-skyblue?style=for-the-badge&logo=discord&logoColor=white" alt="Support available on Discord">
