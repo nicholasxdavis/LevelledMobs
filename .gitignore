@@ -1,0 +1,24 @@
+# JetBrains IntelliJ
+target/
+.idea/
+.gradle/
+build-logic/
+LevelledMobs.iml
+build/
+*.iml
+.kotlin/
+
+# Eclipse
+.classpath
+.project
+/.settings
+/.idea/
+.idea/jarRepositories.xml
+.idea/discord.xml
+
+# macOS
+._.git
+.DS_Store
+
+# Local
+local/
