@@ -4,7 +4,7 @@
 
 # LevelledMobs 4 With Stacked Mobs
 
-*An ArcanePlugins Resource • by PenalBuffalo, UltimaOath, and lokka30*
+*An ArcanePlugins Resource • by PenalBuffalo, UltimaOath, and lokka30.*
 *Stacked Mobs by nicholas x*
 
 <a href="https://discord.gg/arcaneplugins-752310043214479462">
