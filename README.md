@@ -2,7 +2,7 @@
 
 <img src="https://i.ibb.co/ySgMPd0/Levelled-Mobs-Banner-v2-0.png" width="600" height="300" alt="LevelledMobs Banner" />
 
-# LevelledMobs 4
+# LevelledMobs 4 With Stacked Mobs
 
 *An ArcanePlugins Resource • by PenalBuffalo, UltimaOath, and lokka30*
 
